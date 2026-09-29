@@ -1,0 +1,12 @@
+{
+  "plugins": {
+    "rose-pine": {
+      "rev": "ff483051a47e27d84bdef47703538df1ed9f4a47",
+      "src": "https://github.com/rose-pine/neovim"
+    },
+    "vim-gutentags": {
+      "rev": "aa47c5e29c37c52176c44e61c780032dfacef3dd",
+      "src": "https://github.com/ludovicchabant/vim-gutentags"
+    }
+  }
+}
